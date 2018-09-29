@@ -9,3 +9,6 @@ https://docs.google.com/document/d/1qgnLwTeTT2BBczT1wwXqS5Q4AaNV4z5uiLK-hwkKmeE/
 
 # Working with Kinesis Stream through CLI
 https://docs.google.com/document/d/1X4bDjultj5WVSx5PmayiVfUC5JDm5s_AdmhxUlj_jy0/edit?usp=sharing
+
+# Processing Kinesis data Streams using Lambda
+https://docs.google.com/document/d/1TMUbyZp5b8KlxCN890tHFFCUhrZ7qLvIJTzbhaBC4So/edit?usp=sharing
