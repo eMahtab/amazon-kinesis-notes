@@ -6,3 +6,6 @@ https://docs.google.com/document/d/1S6BRcjMhNwCGrkYzuFyqKMOKS7dEanVnQz_4jeZ-guw/
 
 # Getting started with Amazon Kinesis Data Streams
 https://docs.google.com/document/d/1qgnLwTeTT2BBczT1wwXqS5Q4AaNV4z5uiLK-hwkKmeE/edit?usp=sharing
+
+# Working with Kinesis Stream through CLI
+https://docs.google.com/document/d/1X4bDjultj5WVSx5PmayiVfUC5JDm5s_AdmhxUlj_jy0/edit?usp=sharing
