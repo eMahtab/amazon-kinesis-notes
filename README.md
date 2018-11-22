@@ -15,3 +15,6 @@ https://docs.google.com/document/d/1S6BRcjMhNwCGrkYzuFyqKMOKS7dEanVnQz_4jeZ-guw/
 
 # Working with Kinesis using AWS JavaScript SDK (Node.js) :thumbsup:
 https://docs.google.com/document/d/1s38okTkQJQM_tpUXlkDqma6rqLRQ8KgSQdze0sxoGKo/edit?usp=sharing
+
+# Kinesis Data Firehose
+https://docs.google.com/document/d/11EeoA4pvGvvnqFCvh4hOrKCSuzEP3O8LU1RKYVwkcaU/edit?usp=sharing
