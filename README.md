@@ -18,3 +18,6 @@ https://docs.google.com/document/d/1s38okTkQJQM_tpUXlkDqma6rqLRQ8KgSQdze0sxoGKo/
 
 # Kinesis Data Firehose
 https://docs.google.com/document/d/11EeoA4pvGvvnqFCvh4hOrKCSuzEP3O8LU1RKYVwkcaU/edit?usp=sharing
+
+# CloudWatch Logs Subscription to Kinesis Data Streams
+https://docs.google.com/document/d/1JpBasu0zmJrlGF4hDiZbtD40B_K_N-8m7U6GfU70L2Q/edit?usp=sharing
